@@ -1,0 +1,16 @@
+{
+    "name": "tdd-kata",
+    "version": "1.0.0",
+    "description": "Boilerplate with testing setup for tdd-development",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "tdd": "jest --watchAll --coverage"
+    },
+    "author": "Florian Müller",
+    "license": "WTFPL",
+    "devDependencies": {
+        "chai": "^4.1.2",
+        "jest": "^23.4.1"
+    }
+}
