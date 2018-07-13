@@ -1,0 +1,24 @@
+{
+    // Coverage gutters display options
+    // Only one can be set to true - vscode limitation
+    "coverage-gutters.showLineCoverage": false,
+    "coverage-gutters.showGutterCoverage": true,
+    "coverage-gutters.showRulerCoverage": false,
+
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        120
+    ],
+
+    // Autoclean code
+    "eslint.autoFixOnSave": true,
+
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": true,
+
+    // Adds Coverage summary on top of each file
+    "jest.showCoverageOnLoad": true,
+
+    "workbench.iconTheme": "vscode-icons"
+}

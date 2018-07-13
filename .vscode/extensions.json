@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "hookyqr.beautify",
+        "ryanluker.vscode-coverage-gutters",
+        "dbaeumer.vscode-eslint",
+        "orta.vscode-jest",
+        "fknop.vscode-npm",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "ms-vsliveshare.vsliveshare",
+        "robertohuertasm.vscode-icons"
+    ]
+}
