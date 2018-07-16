@@ -19,6 +19,7 @@
 
     // Adds Coverage summary on top of each file
     "jest.showCoverageOnLoad": true,
+    "jest.pathToJest": "node_modules/.bin/jest",
 
     "workbench.iconTheme": "vscode-icons"
 }
